@@ -1,9 +1,6 @@
 #Helldivers {
   zoom: 0.90;
   -moz-transform: scale(0.90);
-  -moz-transform-origin: 0 0;
   -o-transform: scale(0.90);
-  -o-transform-origin: 0 0;
   -webkit-transform: scale(0.90);
-  -webkit-transform-origin: 0 0;
 }
